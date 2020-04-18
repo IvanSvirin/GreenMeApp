@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GreenMeApp</string>
+    <string name="error">error</string>
+    <string name="retry">retry</string>
+    <string name="name">Name:</string>
+    <string name="location">Location:</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="date">Date:</string>
+    <string name="add">add</string>
+    <string name="photo">Photo:</string>
+    <string name="shoot">Shoot</string>
+</resources>

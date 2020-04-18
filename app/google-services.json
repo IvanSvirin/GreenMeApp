@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13293662515",
+    "firebase_url": "https://greenme-265112.firebaseio.com",
+    "project_id": "greenme-265112",
+    "storage_bucket": "greenme-265112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13293662515:android:2a715d812532ed0de3ce46",
+        "android_client_info": {
+          "package_name": "com.greenme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13293662515-79sospkrhh83s6ksf049037rbvnim8lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0KTKcx2w8PppvYwBpyJ7PoPmkl8RS-uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13293662515-79sospkrhh83s6ksf049037rbvnim8lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
